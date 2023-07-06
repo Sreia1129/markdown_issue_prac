@@ -10,6 +10,3 @@ graph TD;
     B-->D;
     C-->D;
 ```
-
-# 課題
-## ①VSCodeでmermaidを利用する方法や便利な拡張機能
